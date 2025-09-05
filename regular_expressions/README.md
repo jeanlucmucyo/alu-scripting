@@ -1,1 +1,0 @@
-This folder includes the exercises that help in learning regex
